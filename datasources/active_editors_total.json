@@ -1,0 +1,26 @@
+{
+    "name": "Active Editors Total", 
+    "timespan": {
+        "start": "2012/08/19", 
+        "step": "1d", 
+        "end": "2013/11/08"
+    }, 
+    "url": "/data/datafiles/gp/active_editors_total.csv", 
+    "notes": "", 
+    "format": "csv", 
+    "slug": null, 
+    "shortName": "Active Editors Total", 
+    "type": "timeseries", 
+    "id": "active_editors_total", 
+    "columns": [
+        {
+            "type": "date", 
+            "label": "date"
+        }, 
+        {
+            "type": "int", 
+            "label": "Active Editors Total"
+        }
+    ], 
+    "desc": ""
+}
