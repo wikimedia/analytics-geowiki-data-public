@@ -1,0 +1,34 @@
+{
+    "name": "bclwiki editors (Tentative)", 
+    "timespan": {
+        "start": "2012/08/19", 
+        "step": "1d", 
+        "end": "2013/11/11"
+    }, 
+    "url": "/data/datafiles/gp/bclwiki_editor_counts.csv", 
+    "notes": "", 
+    "format": "csv", 
+    "slug": null, 
+    "shortName": "bclwiki editors (Tentative)", 
+    "type": "timeseries", 
+    "id": "bclwiki_editor_counts", 
+    "columns": [
+        {
+            "type": "date", 
+            "label": "date"
+        }, 
+        {
+            "type": "int", 
+            "label": "bclwiki (100+)"
+        }, 
+        {
+            "type": "int", 
+            "label": "bclwiki (5+)"
+        }, 
+        {
+            "type": "int", 
+            "label": "bclwiki (all)"
+        }
+    ], 
+    "desc": ""
+}

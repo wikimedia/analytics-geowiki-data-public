@@ -1,0 +1,34 @@
+{
+    "name": "nawiki editors (Tentative)", 
+    "timespan": {
+        "start": "2012/08/19", 
+        "step": "1d", 
+        "end": "2013/11/11"
+    }, 
+    "url": "/data/datafiles/gp/nawiki_editor_counts.csv", 
+    "notes": "", 
+    "format": "csv", 
+    "slug": null, 
+    "shortName": "nawiki editors (Tentative)", 
+    "type": "timeseries", 
+    "id": "nawiki_editor_counts", 
+    "columns": [
+        {
+            "type": "date", 
+            "label": "date"
+        }, 
+        {
+            "type": "int", 
+            "label": "nawiki (100+)"
+        }, 
+        {
+            "type": "int", 
+            "label": "nawiki (5+)"
+        }, 
+        {
+            "type": "int", 
+            "label": "nawiki (all)"
+        }
+    ], 
+    "desc": ""
+}

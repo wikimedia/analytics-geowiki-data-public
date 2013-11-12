@@ -1,0 +1,34 @@
+{
+    "name": "lowiki editors (Tentative)", 
+    "timespan": {
+        "start": "2012/08/19", 
+        "step": "1d", 
+        "end": "2013/11/11"
+    }, 
+    "url": "/data/datafiles/gp/lowiki_editor_counts.csv", 
+    "notes": "", 
+    "format": "csv", 
+    "slug": null, 
+    "shortName": "lowiki editors (Tentative)", 
+    "type": "timeseries", 
+    "id": "lowiki_editor_counts", 
+    "columns": [
+        {
+            "type": "date", 
+            "label": "date"
+        }, 
+        {
+            "type": "int", 
+            "label": "lowiki (100+)"
+        }, 
+        {
+            "type": "int", 
+            "label": "lowiki (5+)"
+        }, 
+        {
+            "type": "int", 
+            "label": "lowiki (all)"
+        }
+    ], 
+    "desc": ""
+}

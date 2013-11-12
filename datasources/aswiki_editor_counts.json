@@ -1,0 +1,34 @@
+{
+    "name": "aswiki editors (Tentative)", 
+    "timespan": {
+        "start": "2012/08/19", 
+        "step": "1d", 
+        "end": "2013/11/11"
+    }, 
+    "url": "/data/datafiles/gp/aswiki_editor_counts.csv", 
+    "notes": "", 
+    "format": "csv", 
+    "slug": null, 
+    "shortName": "aswiki editors (Tentative)", 
+    "type": "timeseries", 
+    "id": "aswiki_editor_counts", 
+    "columns": [
+        {
+            "type": "date", 
+            "label": "date"
+        }, 
+        {
+            "type": "int", 
+            "label": "aswiki (100+)"
+        }, 
+        {
+            "type": "int", 
+            "label": "aswiki (5+)"
+        }, 
+        {
+            "type": "int", 
+            "label": "aswiki (all)"
+        }
+    ], 
+    "desc": ""
+}

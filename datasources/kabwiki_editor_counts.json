@@ -1,0 +1,34 @@
+{
+    "name": "kabwiki editors (Tentative)", 
+    "timespan": {
+        "start": "2012/08/19", 
+        "step": "1d", 
+        "end": "2013/11/11"
+    }, 
+    "url": "/data/datafiles/gp/kabwiki_editor_counts.csv", 
+    "notes": "", 
+    "format": "csv", 
+    "slug": null, 
+    "shortName": "kabwiki editors (Tentative)", 
+    "type": "timeseries", 
+    "id": "kabwiki_editor_counts", 
+    "columns": [
+        {
+            "type": "date", 
+            "label": "date"
+        }, 
+        {
+            "type": "int", 
+            "label": "kabwiki (100+)"
+        }, 
+        {
+            "type": "int", 
+            "label": "kabwiki (5+)"
+        }, 
+        {
+            "type": "int", 
+            "label": "kabwiki (all)"
+        }
+    ], 
+    "desc": ""
+}

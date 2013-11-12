@@ -1,0 +1,34 @@
+{
+    "name": "arwiki editors (Tentative)", 
+    "timespan": {
+        "start": "2012/08/19", 
+        "step": "1d", 
+        "end": "2013/11/11"
+    }, 
+    "url": "/data/datafiles/gp/arwiki_editor_counts.csv", 
+    "notes": "", 
+    "format": "csv", 
+    "slug": null, 
+    "shortName": "arwiki editors (Tentative)", 
+    "type": "timeseries", 
+    "id": "arwiki_editor_counts", 
+    "columns": [
+        {
+            "type": "date", 
+            "label": "date"
+        }, 
+        {
+            "type": "int", 
+            "label": "arwiki (100+)"
+        }, 
+        {
+            "type": "int", 
+            "label": "arwiki (5+)"
+        }, 
+        {
+            "type": "int", 
+            "label": "arwiki (all)"
+        }
+    ], 
+    "desc": ""
+}

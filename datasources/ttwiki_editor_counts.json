@@ -1,0 +1,34 @@
+{
+    "name": "ttwiki editors (Tentative)", 
+    "timespan": {
+        "start": "2012/08/19", 
+        "step": "1d", 
+        "end": "2013/11/11"
+    }, 
+    "url": "/data/datafiles/gp/ttwiki_editor_counts.csv", 
+    "notes": "", 
+    "format": "csv", 
+    "slug": null, 
+    "shortName": "ttwiki editors (Tentative)", 
+    "type": "timeseries", 
+    "id": "ttwiki_editor_counts", 
+    "columns": [
+        {
+            "type": "date", 
+            "label": "date"
+        }, 
+        {
+            "type": "int", 
+            "label": "ttwiki (100+)"
+        }, 
+        {
+            "type": "int", 
+            "label": "ttwiki (5+)"
+        }, 
+        {
+            "type": "int", 
+            "label": "ttwiki (all)"
+        }
+    ], 
+    "desc": ""
+}

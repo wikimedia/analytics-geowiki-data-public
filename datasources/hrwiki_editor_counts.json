@@ -1,0 +1,34 @@
+{
+    "name": "hrwiki editors (Tentative)", 
+    "timespan": {
+        "start": "2012/08/19", 
+        "step": "1d", 
+        "end": "2013/11/11"
+    }, 
+    "url": "/data/datafiles/gp/hrwiki_editor_counts.csv", 
+    "notes": "", 
+    "format": "csv", 
+    "slug": null, 
+    "shortName": "hrwiki editors (Tentative)", 
+    "type": "timeseries", 
+    "id": "hrwiki_editor_counts", 
+    "columns": [
+        {
+            "type": "date", 
+            "label": "date"
+        }, 
+        {
+            "type": "int", 
+            "label": "hrwiki (100+)"
+        }, 
+        {
+            "type": "int", 
+            "label": "hrwiki (5+)"
+        }, 
+        {
+            "type": "int", 
+            "label": "hrwiki (all)"
+        }
+    ], 
+    "desc": ""
+}

@@ -1,0 +1,34 @@
+{
+    "name": "hawwiki editors (Tentative)", 
+    "timespan": {
+        "start": "2012/08/19", 
+        "step": "1d", 
+        "end": "2013/11/11"
+    }, 
+    "url": "/data/datafiles/gp/hawwiki_editor_counts.csv", 
+    "notes": "", 
+    "format": "csv", 
+    "slug": null, 
+    "shortName": "hawwiki editors (Tentative)", 
+    "type": "timeseries", 
+    "id": "hawwiki_editor_counts", 
+    "columns": [
+        {
+            "type": "date", 
+            "label": "date"
+        }, 
+        {
+            "type": "int", 
+            "label": "hawwiki (100+)"
+        }, 
+        {
+            "type": "int", 
+            "label": "hawwiki (5+)"
+        }, 
+        {
+            "type": "int", 
+            "label": "hawwiki (all)"
+        }
+    ], 
+    "desc": ""
+}

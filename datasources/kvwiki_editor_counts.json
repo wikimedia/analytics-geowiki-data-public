@@ -1,0 +1,34 @@
+{
+    "name": "kvwiki editors (Tentative)", 
+    "timespan": {
+        "start": "2012/08/19", 
+        "step": "1d", 
+        "end": "2013/11/11"
+    }, 
+    "url": "/data/datafiles/gp/kvwiki_editor_counts.csv", 
+    "notes": "", 
+    "format": "csv", 
+    "slug": null, 
+    "shortName": "kvwiki editors (Tentative)", 
+    "type": "timeseries", 
+    "id": "kvwiki_editor_counts", 
+    "columns": [
+        {
+            "type": "date", 
+            "label": "date"
+        }, 
+        {
+            "type": "int", 
+            "label": "kvwiki (100+)"
+        }, 
+        {
+            "type": "int", 
+            "label": "kvwiki (5+)"
+        }, 
+        {
+            "type": "int", 
+            "label": "kvwiki (all)"
+        }
+    ], 
+    "desc": ""
+}

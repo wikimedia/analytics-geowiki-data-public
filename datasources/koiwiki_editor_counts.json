@@ -1,0 +1,34 @@
+{
+    "name": "koiwiki editors (Tentative)", 
+    "timespan": {
+        "start": "2012/08/19", 
+        "step": "1d", 
+        "end": "2013/11/11"
+    }, 
+    "url": "/data/datafiles/gp/koiwiki_editor_counts.csv", 
+    "notes": "", 
+    "format": "csv", 
+    "slug": null, 
+    "shortName": "koiwiki editors (Tentative)", 
+    "type": "timeseries", 
+    "id": "koiwiki_editor_counts", 
+    "columns": [
+        {
+            "type": "date", 
+            "label": "date"
+        }, 
+        {
+            "type": "int", 
+            "label": "koiwiki (100+)"
+        }, 
+        {
+            "type": "int", 
+            "label": "koiwiki (5+)"
+        }, 
+        {
+            "type": "int", 
+            "label": "koiwiki (all)"
+        }
+    ], 
+    "desc": ""
+}

@@ -1,0 +1,34 @@
+{
+    "name": "be_x_oldwiki editors (Tentative)", 
+    "timespan": {
+        "start": "2012/08/19", 
+        "step": "1d", 
+        "end": "2013/11/11"
+    }, 
+    "url": "/data/datafiles/gp/be_x_oldwiki_editor_counts.csv", 
+    "notes": "", 
+    "format": "csv", 
+    "slug": null, 
+    "shortName": "be_x_oldwiki editors (Tentative)", 
+    "type": "timeseries", 
+    "id": "be_x_oldwiki_editor_counts", 
+    "columns": [
+        {
+            "type": "date", 
+            "label": "date"
+        }, 
+        {
+            "type": "int", 
+            "label": "be_x_oldwiki (100+)"
+        }, 
+        {
+            "type": "int", 
+            "label": "be_x_oldwiki (5+)"
+        }, 
+        {
+            "type": "int", 
+            "label": "be_x_oldwiki (all)"
+        }
+    ], 
+    "desc": ""
+}

@@ -1,0 +1,34 @@
+{
+    "name": "bat_smgwiki editors (Tentative)", 
+    "timespan": {
+        "start": "2012/08/19", 
+        "step": "1d", 
+        "end": "2013/11/11"
+    }, 
+    "url": "/data/datafiles/gp/bat_smgwiki_editor_counts.csv", 
+    "notes": "", 
+    "format": "csv", 
+    "slug": null, 
+    "shortName": "bat_smgwiki editors (Tentative)", 
+    "type": "timeseries", 
+    "id": "bat_smgwiki_editor_counts", 
+    "columns": [
+        {
+            "type": "date", 
+            "label": "date"
+        }, 
+        {
+            "type": "int", 
+            "label": "bat_smgwiki (100+)"
+        }, 
+        {
+            "type": "int", 
+            "label": "bat_smgwiki (5+)"
+        }, 
+        {
+            "type": "int", 
+            "label": "bat_smgwiki (all)"
+        }
+    ], 
+    "desc": ""
+}

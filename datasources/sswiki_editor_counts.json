@@ -1,0 +1,34 @@
+{
+    "name": "sswiki editors (Tentative)", 
+    "timespan": {
+        "start": "2012/08/19", 
+        "step": "1d", 
+        "end": "2013/11/11"
+    }, 
+    "url": "/data/datafiles/gp/sswiki_editor_counts.csv", 
+    "notes": "", 
+    "format": "csv", 
+    "slug": null, 
+    "shortName": "sswiki editors (Tentative)", 
+    "type": "timeseries", 
+    "id": "sswiki_editor_counts", 
+    "columns": [
+        {
+            "type": "date", 
+            "label": "date"
+        }, 
+        {
+            "type": "int", 
+            "label": "sswiki (100+)"
+        }, 
+        {
+            "type": "int", 
+            "label": "sswiki (5+)"
+        }, 
+        {
+            "type": "int", 
+            "label": "sswiki (all)"
+        }
+    ], 
+    "desc": ""
+}

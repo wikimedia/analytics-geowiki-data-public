@@ -1,0 +1,101 @@
+{
+  "graph_version": "0.6.0", 
+  "name": "jbowiki editors (Tentative)", 
+  "notes": "", 
+  "slug": "jbowiki_editor_counts", 
+  "shortName": "", 
+  "root": {
+    "scaling": "linear", 
+    "nodeType": "canvas", 
+    "minWidth": 750, 
+    "minHeight": 500, 
+    "height": 500, 
+    "disabled": false, 
+    "width": "auto", 
+    "children": [
+      {
+        "disabled": false, 
+        "nodeType": "axis", 
+        "options": {
+          "tickFormat": "MMM YY", 
+          "dimension": "x", 
+          "orient": "bottom"
+        }
+      }, 
+      {
+        "disabled": false, 
+        "nodeType": "axis", 
+        "options": {
+          "tickFormat": "MMM YY", 
+          "dimension": "y", 
+          "orient": "left"
+        }
+      }, 
+      {
+        "disabled": false, 
+        "nodeType": "grid", 
+        "options": {
+          "ticks": 10, 
+          "dimension": "x"
+        }
+      }, 
+      {
+        "disabled": false, 
+        "nodeType": "grid", 
+        "options": {
+          "ticks": 10, 
+          "dimension": "y"
+        }
+      }, 
+      {
+        "disabled": false, 
+        "nodeType": "zoom-brush", 
+        "options": {
+          "allowY": true, 
+          "allowX": true
+        }
+      }, 
+      {
+        "disabled": false, 
+        "nodeType": "legend", 
+        "options": {
+          "valueFormat": ",.2s", 
+          "dateFormat": "MMM DD YYYY"
+        }, 
+        "label": "Aug 2012"
+      }, 
+      {
+        "disabled": false, 
+        "nodeType": "line-group", 
+        "options": {
+          "stroke": {
+            "opacity": 1, 
+            "width": 2
+          }
+        }, 
+        "children": [
+          {
+            "disabled": false, 
+            "index": 0, 
+            "metric": {
+              "source_id": "jbowiki_editor_counts", 
+              "type": "int", 
+              "source_col": 2
+            }, 
+            "nodeType": "line", 
+            "options": {
+              "stroke": {
+                "width": 2
+              }, 
+              "label": null, 
+              "noLegend": false, 
+              "dateFormat": "MMM YYYY"
+            }
+          }
+        ]
+      }
+    ]
+  }, 
+  "id": "jbowiki_editor_counts", 
+  "desc": "This graph currently mis-reports by counting each\neditor once for each country associated to the IP addresses used by\nthe editor.\n"
+}

@@ -1,0 +1,34 @@
+{
+    "name": "nvwiki editors (Tentative)", 
+    "timespan": {
+        "start": "2012/08/19", 
+        "step": "1d", 
+        "end": "2013/11/11"
+    }, 
+    "url": "/data/datafiles/gp/nvwiki_editor_counts.csv", 
+    "notes": "", 
+    "format": "csv", 
+    "slug": null, 
+    "shortName": "nvwiki editors (Tentative)", 
+    "type": "timeseries", 
+    "id": "nvwiki_editor_counts", 
+    "columns": [
+        {
+            "type": "date", 
+            "label": "date"
+        }, 
+        {
+            "type": "int", 
+            "label": "nvwiki (100+)"
+        }, 
+        {
+            "type": "int", 
+            "label": "nvwiki (5+)"
+        }, 
+        {
+            "type": "int", 
+            "label": "nvwiki (all)"
+        }
+    ], 
+    "desc": ""
+}

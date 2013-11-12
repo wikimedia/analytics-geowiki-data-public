@@ -1,0 +1,34 @@
+{
+    "name": "bnwiki editors (Tentative)", 
+    "timespan": {
+        "start": "2012/08/19", 
+        "step": "1d", 
+        "end": "2013/11/11"
+    }, 
+    "url": "/data/datafiles/gp/bnwiki_editor_counts.csv", 
+    "notes": "", 
+    "format": "csv", 
+    "slug": null, 
+    "shortName": "bnwiki editors (Tentative)", 
+    "type": "timeseries", 
+    "id": "bnwiki_editor_counts", 
+    "columns": [
+        {
+            "type": "date", 
+            "label": "date"
+        }, 
+        {
+            "type": "int", 
+            "label": "bnwiki (100+)"
+        }, 
+        {
+            "type": "int", 
+            "label": "bnwiki (5+)"
+        }, 
+        {
+            "type": "int", 
+            "label": "bnwiki (all)"
+        }
+    ], 
+    "desc": ""
+}

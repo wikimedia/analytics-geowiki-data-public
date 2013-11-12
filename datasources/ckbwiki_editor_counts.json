@@ -1,0 +1,34 @@
+{
+    "name": "ckbwiki editors (Tentative)", 
+    "timespan": {
+        "start": "2012/08/19", 
+        "step": "1d", 
+        "end": "2013/11/11"
+    }, 
+    "url": "/data/datafiles/gp/ckbwiki_editor_counts.csv", 
+    "notes": "", 
+    "format": "csv", 
+    "slug": null, 
+    "shortName": "ckbwiki editors (Tentative)", 
+    "type": "timeseries", 
+    "id": "ckbwiki_editor_counts", 
+    "columns": [
+        {
+            "type": "date", 
+            "label": "date"
+        }, 
+        {
+            "type": "int", 
+            "label": "ckbwiki (100+)"
+        }, 
+        {
+            "type": "int", 
+            "label": "ckbwiki (5+)"
+        }, 
+        {
+            "type": "int", 
+            "label": "ckbwiki (all)"
+        }
+    ], 
+    "desc": ""
+}

@@ -1,0 +1,34 @@
+{
+    "name": "viwiki editors (Tentative)", 
+    "timespan": {
+        "start": "2012/08/19", 
+        "step": "1d", 
+        "end": "2013/11/11"
+    }, 
+    "url": "/data/datafiles/gp/viwiki_editor_counts.csv", 
+    "notes": "", 
+    "format": "csv", 
+    "slug": null, 
+    "shortName": "viwiki editors (Tentative)", 
+    "type": "timeseries", 
+    "id": "viwiki_editor_counts", 
+    "columns": [
+        {
+            "type": "date", 
+            "label": "date"
+        }, 
+        {
+            "type": "int", 
+            "label": "viwiki (100+)"
+        }, 
+        {
+            "type": "int", 
+            "label": "viwiki (5+)"
+        }, 
+        {
+            "type": "int", 
+            "label": "viwiki (all)"
+        }
+    ], 
+    "desc": ""
+}
