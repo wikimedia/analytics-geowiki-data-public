@@ -3,7 +3,7 @@
     "timespan": {
         "start": "2012/08/19", 
         "step": "1d", 
-        "end": "2013/11/12"
+        "end": "2013/11/13"
     }, 
     "url": "/data/datafiles/gp/csbwiki_editor_counts.csv", 
     "notes": "", 
