@@ -3,7 +3,7 @@
     "timespan": {
         "start": "2012/08/19", 
         "step": "1d", 
-        "end": "2014/01/19"
+        "end": "2014/01/20"
     }, 
     "url": "/data/datafiles/gp/cywiki_editor_counts.csv", 
     "notes": "", 
