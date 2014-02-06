@@ -3,7 +3,7 @@
     "timespan": {
         "start": "2012/08/19", 
         "step": "1d", 
-        "end": "2014/02/04"
+        "end": "2014/02/05"
     }, 
     "url": "/data/datafiles/gp/iewiki_editor_counts.csv", 
     "notes": "", 
