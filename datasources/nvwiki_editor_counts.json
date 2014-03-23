@@ -3,7 +3,7 @@
     "timespan": {
         "start": "2012/08/19", 
         "step": "1d", 
-        "end": "2014/03/21"
+        "end": "2014/03/22"
     }, 
     "url": "/data/datafiles/gp/nvwiki_editor_counts.csv", 
     "notes": "", 
