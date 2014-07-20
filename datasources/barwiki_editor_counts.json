@@ -3,7 +3,7 @@
     "timespan": {
         "start": "2012/08/19", 
         "step": "1d", 
-        "end": "2014/07/18"
+        "end": "2014/07/19"
     }, 
     "url": "/data/datafiles/gp/barwiki_editor_counts.csv", 
     "notes": "", 
