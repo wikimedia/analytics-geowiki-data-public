@@ -3,7 +3,7 @@
     "timespan": {
         "start": "2012/08/19", 
         "step": "1d", 
-        "end": "2014/11/15"
+        "end": "2014/11/16"
     }, 
     "url": "/data/datafiles/gp/ffwiki_editor_counts.csv", 
     "notes": "", 
