@@ -3,7 +3,7 @@
     "timespan": {
         "start": "2012/08/19", 
         "step": "1d", 
-        "end": "2015/03/02"
+        "end": "2015/03/03"
     }, 
     "url": "/data/datafiles/gp/crhwiki_editor_counts.csv", 
     "notes": "", 
