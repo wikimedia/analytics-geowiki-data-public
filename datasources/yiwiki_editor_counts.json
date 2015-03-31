@@ -3,7 +3,7 @@
     "timespan": {
         "start": "2012/08/19", 
         "step": "1d", 
-        "end": "2015/03/29"
+        "end": "2015/03/30"
     }, 
     "url": "/data/datafiles/gp/yiwiki_editor_counts.csv", 
     "notes": "", 
