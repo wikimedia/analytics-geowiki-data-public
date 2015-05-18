@@ -80,7 +80,7 @@
             "metric": {
               "source_id": "dvwiki_editor_counts", 
               "type": "int", 
-              "source_col": 1
+              "source_col": 2
             }, 
             "nodeType": "line", 
             "options": {
