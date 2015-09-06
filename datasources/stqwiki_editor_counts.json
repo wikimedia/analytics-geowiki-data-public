@@ -3,7 +3,7 @@
     "timespan": {
         "start": "2012/08/19", 
         "step": "1d", 
-        "end": "2015/09/04"
+        "end": "2015/09/05"
     }, 
     "url": "/data/datafiles/gp/stqwiki_editor_counts.csv", 
     "notes": "", 
