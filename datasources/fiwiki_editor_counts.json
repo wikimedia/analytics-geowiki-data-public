@@ -3,7 +3,7 @@
     "timespan": {
         "start": "2012/08/19", 
         "step": "1d", 
-        "end": "2015/09/06"
+        "end": "2015/09/07"
     }, 
     "url": "/data/datafiles/gp/fiwiki_editor_counts.csv", 
     "notes": "", 
