@@ -3,7 +3,7 @@
     "timespan": {
         "start": "2012/08/19", 
         "step": "1d", 
-        "end": "2015/09/19"
+        "end": "2015/09/20"
     }, 
     "url": "/data/datafiles/gp/abwiki_editor_counts.csv", 
     "notes": "", 
