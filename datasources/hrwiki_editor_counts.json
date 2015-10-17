@@ -3,7 +3,7 @@
     "timespan": {
         "start": "2012/08/19", 
         "step": "1d", 
-        "end": "2015/10/15"
+        "end": "2015/10/16"
     }, 
     "url": "/data/datafiles/gp/hrwiki_editor_counts.csv", 
     "notes": "", 
