@@ -3,7 +3,7 @@
     "timespan": {
         "start": "2012/08/19", 
         "step": "1d", 
-        "end": "2015/12/07"
+        "end": "2015/12/08"
     }, 
     "url": "/data/datafiles/gp/vlswiki_editor_counts.csv", 
     "notes": "", 
