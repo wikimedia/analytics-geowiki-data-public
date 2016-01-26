@@ -3,7 +3,7 @@
     "timespan": {
         "start": "2012/08/19", 
         "step": "1d", 
-        "end": "2016/01/24"
+        "end": "2016/01/25"
     }, 
     "url": "/data/datafiles/gp/active_editors_total.csv", 
     "notes": "", 
