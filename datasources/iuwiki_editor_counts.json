@@ -3,7 +3,7 @@
     "timespan": {
         "start": "2012/08/19", 
         "step": "1d", 
-        "end": "2016/02/17"
+        "end": "2016/02/18"
     }, 
     "url": "/data/datafiles/gp/iuwiki_editor_counts.csv", 
     "notes": "", 
