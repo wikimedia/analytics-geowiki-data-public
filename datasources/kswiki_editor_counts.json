@@ -3,7 +3,7 @@
     "timespan": {
         "start": "2012/08/19", 
         "step": "1d", 
-        "end": "2016/03/16"
+        "end": "2016/03/17"
     }, 
     "url": "/data/datafiles/gp/kswiki_editor_counts.csv", 
     "notes": "", 
