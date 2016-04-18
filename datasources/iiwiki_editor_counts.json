@@ -1,0 +1,26 @@
+{
+    "name": "iiwiki editors (Tentative)", 
+    "timespan": {
+        "start": "2016/04/17", 
+        "step": "1d", 
+        "end": "2016/04/17"
+    }, 
+    "url": "/data/datafiles/gp/iiwiki_editor_counts.csv", 
+    "notes": "", 
+    "format": "csv", 
+    "slug": null, 
+    "shortName": "iiwiki editors (Tentative)", 
+    "type": "timeseries", 
+    "id": "iiwiki_editor_counts", 
+    "columns": [
+        {
+            "type": "date", 
+            "label": "date"
+        }, 
+        {
+            "type": "int", 
+            "label": "iiwiki (all)"
+        }
+    ], 
+    "desc": ""
+}
