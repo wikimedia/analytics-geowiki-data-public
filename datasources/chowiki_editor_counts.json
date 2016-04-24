@@ -1,0 +1,26 @@
+{
+    "name": "chowiki editors (Tentative)", 
+    "timespan": {
+        "start": "2016/04/23", 
+        "step": "1d", 
+        "end": "2016/04/23"
+    }, 
+    "url": "/data/datafiles/gp/chowiki_editor_counts.csv", 
+    "notes": "", 
+    "format": "csv", 
+    "slug": null, 
+    "shortName": "chowiki editors (Tentative)", 
+    "type": "timeseries", 
+    "id": "chowiki_editor_counts", 
+    "columns": [
+        {
+            "type": "date", 
+            "label": "date"
+        }, 
+        {
+            "type": "int", 
+            "label": "chowiki (all)"
+        }
+    ], 
+    "desc": ""
+}
