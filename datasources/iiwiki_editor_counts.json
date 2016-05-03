@@ -3,7 +3,7 @@
     "timespan": {
         "start": "2016/04/17", 
         "step": "1d", 
-        "end": "2016/05/01"
+        "end": "2016/05/02"
     }, 
     "url": "/data/datafiles/gp/iiwiki_editor_counts.csv", 
     "notes": "", 
