@@ -3,7 +3,7 @@
     "timespan": {
         "start": "2016/04/23", 
         "step": "1d", 
-        "end": "2016/05/04"
+        "end": "2016/05/05"
     }, 
     "url": "/data/datafiles/gp/mowiki_editor_counts.csv", 
     "notes": "", 

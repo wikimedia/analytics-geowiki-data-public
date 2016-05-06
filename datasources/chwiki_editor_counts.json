@@ -3,7 +3,7 @@
     "timespan": {
         "start": "2012/08/19", 
         "step": "1d", 
-        "end": "2016/05/04"
+        "end": "2016/05/05"
     }, 
     "url": "/data/datafiles/gp/chwiki_editor_counts.csv", 
     "notes": "", 
