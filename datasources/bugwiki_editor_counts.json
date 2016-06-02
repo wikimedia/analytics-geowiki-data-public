@@ -3,7 +3,7 @@
     "timespan": {
         "start": "2012/08/19", 
         "step": "1d", 
-        "end": "2016/05/30"
+        "end": "2016/06/01"
     }, 
     "url": "/data/datafiles/gp/bugwiki_editor_counts.csv", 
     "notes": "", 
