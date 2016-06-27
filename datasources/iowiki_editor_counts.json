@@ -3,7 +3,7 @@
     "timespan": {
         "start": "2012/08/19", 
         "step": "1d", 
-        "end": "2016/06/25"
+        "end": "2016/06/26"
     }, 
     "url": "/data/datafiles/gp/iowiki_editor_counts.csv", 
     "notes": "", 
