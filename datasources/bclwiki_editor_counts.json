@@ -3,7 +3,7 @@
     "timespan": {
         "start": "2012/08/19", 
         "step": "1d", 
-        "end": "2016/08/15"
+        "end": "2016/08/16"
     }, 
     "url": "/data/datafiles/gp/bclwiki_editor_counts.csv", 
     "notes": "", 
