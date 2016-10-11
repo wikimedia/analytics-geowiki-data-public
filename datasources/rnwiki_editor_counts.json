@@ -3,7 +3,7 @@
     "timespan": {
         "start": "2012/08/19", 
         "step": "1d", 
-        "end": "2016/10/09"
+        "end": "2016/10/10"
     }, 
     "url": "/data/datafiles/gp/rnwiki_editor_counts.csv", 
     "notes": "", 
