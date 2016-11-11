@@ -3,7 +3,7 @@
     "timespan": {
         "start": "2012/08/19", 
         "step": "1d", 
-        "end": "2016/11/09"
+        "end": "2016/11/10"
     }, 
     "url": "/data/datafiles/gp/glkwiki_editor_counts.csv", 
     "notes": "", 
