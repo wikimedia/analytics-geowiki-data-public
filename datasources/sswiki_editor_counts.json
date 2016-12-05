@@ -3,7 +3,7 @@
     "timespan": {
         "start": "2012/08/19", 
         "step": "1d", 
-        "end": "2016/12/03"
+        "end": "2016/12/04"
     }, 
     "url": "/data/datafiles/gp/sswiki_editor_counts.csv", 
     "notes": "", 
