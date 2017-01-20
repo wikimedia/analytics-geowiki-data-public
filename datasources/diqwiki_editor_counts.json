@@ -3,7 +3,7 @@
     "timespan": {
         "start": "2012/08/19", 
         "step": "1d", 
-        "end": "2017/01/18"
+        "end": "2017/01/19"
     }, 
     "url": "/data/datafiles/gp/diqwiki_editor_counts.csv", 
     "notes": "", 
