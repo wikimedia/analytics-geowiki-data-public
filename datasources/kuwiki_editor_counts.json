@@ -3,7 +3,7 @@
     "timespan": {
         "start": "2012/08/19", 
         "step": "1d", 
-        "end": "2017/03/19"
+        "end": "2017/03/20"
     }, 
     "url": "/data/datafiles/gp/kuwiki_editor_counts.csv", 
     "notes": "", 
